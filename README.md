@@ -9,7 +9,8 @@
 <a target="_blank" href="mailto:alex.trindade06@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+<br>
+<br>
 ![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-t06&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alex-t06&layout=compact&theme=radical)
 
