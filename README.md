@@ -13,7 +13,7 @@
 <br>
 
 ![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-t06&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=future4code/Alex-Trindade&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username='future4code/Alex-Trindade'&layout=compact&theme=radical)
 
 <hr>
 
