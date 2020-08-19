@@ -12,7 +12,7 @@
 <br>
 <br>
 
-![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-t06&show_icons=true&theme=radical)
+![Alex GitHub Stats](https://github-readme-stats.vercel.app/api?username=alex-t06&show_icons=true&theme=radical&hide=stars,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <hr>
